@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\bin\Debug\Internet Service Provider Contractual App.exe.config
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\bin\Debug\Internet Service Provider Contractual App.exe
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\bin\Debug\Internet Service Provider Contractual App.pdb
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet Service Provider Contractual App.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet_Service_Provider_Contractual_App.Form1.resources
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet_Service_Provider_Contractual_App.Properties.Resources.resources
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet Service Provider Contractual App.csproj.GenerateResource.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet Service Provider Contractual App.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet Service Provider Contractual App.exe
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Internet Service Provider Contractual App\Internet Service Provider Contractual App\obj\Debug\Internet Service Provider Contractual App.pdb
